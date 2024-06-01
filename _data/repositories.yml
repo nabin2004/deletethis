@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - nabin2004
+  - nabin2004
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - nabin2004/Chess-game-using-PHP.git
+

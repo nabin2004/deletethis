@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>he/him</a>. Kathmandu. nabinoli2004@gmail.com. Connecting Dots.
 
 profile:
   align: right
