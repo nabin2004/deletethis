@@ -27,4 +27,4 @@ Nabin Oli is a [Research Intern](https://cair-nepal.org/teams/display-profile/na
 
 In addition to his research, Nabin also serves as the Data Fellowship Co-coordinator for the 2024 cohort. He is also a former Data Fellow at the Datacamp Donates X SSRC club.
 
-Nabin is currently pursuing a BSc (Hons) in Computer and Data Science at [Sunway College Kathmandu](https://sunway.edu.np/), affiliated with Birmingham City University, UK. His deep passion for Data Science and AI is the reason behind his rapid growth in this field.  
+Nabin is currently pursuing a BSc (Hons) in Computer and Data Science at [Sunway College Kathmandu](https://sunway.edu.np/), affiliated with Birmingham City University, UK.  
